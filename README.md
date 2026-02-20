@@ -34,3 +34,9 @@ Os resultados técnicos brutos são processados pelo Gemini 1.5.
 - **IA:** Python, XGBoost, Scikit-learn, Sentence-Transformers.
 - **Web:** FastAPI, React.js, Playwright.
 - **Dados:** PostgreSQL (Persistência de padrões de ataque).
+
+## Instalação
+> python3 -m venv venv
+> source venv/bin/activate
+> pip3 install -r requirements.txt
+> python3 -m playwright install chromium
